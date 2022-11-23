@@ -1,9 +1,4 @@
-/*
-Given an anagram, return all words that are rearrangements of the characters of that word 
-*/
-
 use std::fs;
-//use std::env;
 use std::io;
 use std::collections::HashMap;
 use std::cmp::PartialEq;
